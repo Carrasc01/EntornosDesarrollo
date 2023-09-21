@@ -3,9 +3,6 @@
 ***Esto son apuntes***.
 ## Introducción
 
-Otra línea.
-
-> NOTA: Esto debe realizarse en ***Java***.
 >
 > Otra línea.
 > El comando `dir` sirve para hacer listado de un directorio
